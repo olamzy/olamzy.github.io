@@ -146,8 +146,8 @@ h6, .h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-  font-size: 1.2em;
-  text-align: justify;
+  /* font-size: 1.2em;
+  text-align: justify; */
 }
 
 
